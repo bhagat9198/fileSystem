@@ -1,7 +1,7 @@
 # File - System
 
-using python __
-for GUI, using tkinter.__ __
+using python <br />
+for GUI, using tkinter.<br /> <br />
 
 `01` setting up gui window.<br />
 `02` using widget : Label. <br />
@@ -9,3 +9,4 @@ for GUI, using tkinter.__ __
 `04` creating buttons. <br />
 `05` creating input fields. <br />
 `06` creating simple calculator <br />
+`07` using icons images and exit buttons
