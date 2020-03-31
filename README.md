@@ -9,4 +9,5 @@ for GUI, using tkinter.<br /> <br />
 `04` creating buttons. <br />
 `05` creating input fields. <br />
 `06` creating simple calculator <br />
-`07` using icons images and exit buttons
+`07` using icons images and exit buttons <br />
+`08` creating image viewer app
