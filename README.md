@@ -13,3 +13,5 @@ for GUI, using tkinter.<br /> <br />
 `08` creating image viewer app. <br />
 `09` adding a status bar to exisiting image viewer app (taking the code from `08`). <br />
 `10` adding frames, <br />
+`11` radio buttons. <br />
+
